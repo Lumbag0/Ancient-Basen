@@ -1,2 +1,2 @@
 # Ancient-Basen
-automatic Base encode and decode for CTF events
+Automatic Base encode and decode for CTF events
